@@ -7,3 +7,6 @@ Live instance hosted on https://webaudiodemos.appspot.com/pitchdetect/.
 Check it out, feel free to fork, submit pull requests, etc.  MIT-Licensed - party on.
 
 -Chris
+
+
+Whatever Chris is "whopping" up with Audio is truly cool and I want to learn it!

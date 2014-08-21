@@ -9,4 +9,4 @@ Check it out, feel free to fork, submit pull requests, etc.  MIT-Licensed - part
 -Chris
 
 
-Whatever Chris is "whopping" up with Audio is truly cool and I want to learn it!
+Whatever Chris is "whipping" up with Audio is truly cool and I want to learn it!
